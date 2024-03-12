@@ -30,7 +30,6 @@ int main() { //Início do programa principal
 
 	*/
 
-
 	printf("O valor é: %i\n", 245);
 	
 	printf("O valor é: %i - %i - %i - %i\n", 156, 34, 68, 10);
